@@ -1,0 +1,3 @@
+In Pong, a player controls a paddle that can be moved up and down with the up and down arrow keys, respectively.
+The player must move the paddle to hit the ball that is moving. The object of the game is to be the first player to reach 11 points.
+The player loses a point when he/she fails to return the ball to the other paddle.
